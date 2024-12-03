@@ -24,7 +24,7 @@ export default function Home() {
           </div>
           <div className="ml-auto">
             <Image
-              src="/icon.jpeg?height=40&width=40"
+              src="/favicon.ico?height=40&width=40"
               alt="Avatar"
               width={40}
               height={40}
